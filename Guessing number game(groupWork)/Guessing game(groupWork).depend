@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709297671 source:c:\users\baras\desktop\c++\guessing game(groupwork)\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+
